@@ -1,4 +1,7 @@
 {
+  "scripts":{
+    "start":"node src/app.js"
+  },
   "dependencies": {
     "hbs": "^4.2.0",
     "postman-request": "^2.88.1-postman.33"
